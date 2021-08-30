@@ -13,9 +13,14 @@
 
 | 🎓 Courses | [DQLab] [Data Analyst Career Track (Python)]
 1. Python Fundamental for Data Science (https://academy.dqlab.id/certificate/pdf/DQLABINTP1CWBBLL/NONTRACK)
+
+
+<img align='right' src="http://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-300-225.gif" height="150px">
+
 <!--[Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
 |:--------|:--------------------|
 | ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
+
 | 📝  Articles | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
 
 ## 📃 Latest Articles-->
@@ -40,7 +45,5 @@
   <a href="https://www.instagram.com/falen_bayu/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 <!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   -->
   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
-
- <img align='right' src="http://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-300-225.gif" height="150px">
 </p>
 
