@@ -10,11 +10,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/{falenbayu}/count.svg)
 
  ## ⭐ Popular Repositories
-
-| 🎓 Courses | [DQLab] [Data Analyst Career Track (Python)]
-1. Python Fundamental for Data Science (https://academy.dqlab.id/certificate/pdf/DQLABINTP1CWBBLL/NONTRACK)
 <p><img align='right' src="http://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-300-225.gif" height="150px">
 </p>
+| 🎓 Courses | [DQLab] [Data Analyst Career Track (Python)]
+1. Python Fundamental for Data Science (https://academy.dqlab.id/certificate/pdf/DQLABINTP1CWBBLL/NONTRACK)
+
 <!--[Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
 |:--------|:--------------------|
 | ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
