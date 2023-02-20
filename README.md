@@ -104,16 +104,7 @@
   &emsp;
     <a href=""><img alt="Android" src ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
   &emsp;
-    <a href=""><img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"></a>
-  &emsp;
     <a href=""><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>  
- </p>
- 
- ### 👉 Desktop Development
-<p align="left">
-  &emsp;
-    <a href=""><img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"></a>
-
  </p>
 
 ### 👉 Databases & Cloud Hosting
