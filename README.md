@@ -165,10 +165,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/badarsaghir/github-readme-stats"><img alt="Badar Github Stats" src="https://github-readme-stats.vercel.app/api?username=badarsaghir&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/falenbayu/github-readme-stats"><img alt="Falen Github Stats" src="https://github-readme-stats.vercel.app/api?username=falenbayu&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarsaghir&show_icons=true&locale=en&layout=compact&theme=algolia" alt="badarsaghir" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=falenbayu&show_icons=true&locale=en&layout=compact&theme=algolia" alt="falenbayu" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -178,65 +178,18 @@
 <details>
   <summary><b>🚧 Github Projects</b></summary>
   <br/>
-<p align="center"><a href="https://github.com/BadarSaghir"><img alt="Sardar Badar Projects " src="https://media.giphy.com/media/i3q36zEFShC18oS6v0/giphy.gif" /></a></p>
+<p align="center"><a href="https://github.com/Falenbayu"><img alt="Falen Bayu Projects " src="https://media.giphy.com/media/i3q36zEFShC18oS6v0/giphy.gif" /></a></p>
   <br/>
 
 ### Wordpress Theme
-- https://github.com/BadarSaghir/universityfront-wordpress-theme
-- The is theme is develop for wordpress for universities having campuses in mind
+- https://sibslamongan.sch.id/
+- The is theme is develop for wordpress for junior high school having achool in mind
 
-## Facebook Injector
-- https://github.com/BadarSaghir/facebookInjector
-- Chrome and firefox extension that injects tweets in facebook from the list of user. It has a backend in djnago that extract the data from then backend
+## Coffe Shop
+- https://sibslamongan.sch.id/
+- The is theme is develop for wordpress for junior high school having achool in mind
 
-## invoice-genrator
-- https://github.com/BadarSaghir/invoice-genrator-nextjs
-- It is electron react base desktop application that genrate invoices for users
-
-## tweetpeter
-- https://github.com/BadarSaghir/tweetpeter
-- https://tweet-recent.herokuapp.com/api/tweet/DrJamesOlsson/
-- Generate apis for twitter by automation through selenium apis
-
-## Food System Fyp
-- https://github.com/BadarSaghir/food_system_fyp.git
-- The fyp develop for the students which is mern stack application
-
-## Extracter (under development)
-- https://github.com/BadarSaghir/Extracter
-- Extension develop for extracting email using regex expressions
-
-## Django Blog 
-- https://github.com/BadarSaghir/blogInPython
-- It is a django blog develop in python framework django
-
-## GMAIL EXPORTER
-- https://gmail-filteror.herokuapp.com
-- https://github.com/BadarSaghir/gmail_export
-- Application to export importan email and their link of gmail account into single email by filtering according to the need
-
-## Email Gatherer
-- https://github.com/BadarSaghir/email_gathering
-- Desktop Application design to extract email from google
-
-## Inside Mafia Store
-- https://badarsaghir.github.io/netlifyitm/
-- https://github.com/BadarSaghir/netlifyitm
-- Inside Mafia Store is a eccomerence store Develop for in react and typescript
-
-## TikTik Application
-- https://github.com/BadarSaghir/tiktikVideo
-- Application develop in reactjs
-
-## Fdoc
-- https://nestserverfdoc.herokuapp.com (api)
-- https://github.com/BadarSaghir/fdoc
-- Application Made with flutter with word document support
-
-## Taneps Scraper
-- https://github.com/BadarSaghir/tanepsScraper.git
-- Application Made with Php which extract table for site with support of multithreading
-
+<!--
 <p align="center"><a href="https://www.youtube.com/watch?v=i3uAQoB1G3A"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://img.youtube.com/vi/i3uAQoB1G3A/0.jpg" /></a></p>
 
 ## Qr-Coder Nestjs
@@ -246,6 +199,7 @@
 
 <p align="center"><a href="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo_qr-2022-11-21_20.57.06.mp4"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo1.png" /></a></p>
 
+-->
   <br/>
 <hr/>
 
@@ -254,23 +208,17 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/BadarSaghir"><img alt="Badar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=badarsaghir&custom_title=Badar%20Saghir's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Falenbayu"><img alt="Falen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=falenbayu&custom_title=Falen%Bayu's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="https://twitter.com/darkrosespeaks"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="twitter"/></a>  
-	<a href="https://https://github.com/BadarSaghir"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:dataentrybadar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/BadarSaghir"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://pk.linkedin.com/in/sardar-badar-saghir-sardar-saghir-ahmad"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://web.facebook.com/DataEntryBadar/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/badar.dev"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC2tT1if0P2yy5RiIFbBpqwg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	<a href="https://www.fiverr.com/dataentrybadar/" ><img src="https://img.icons8.com/bubbles/50/000000/fiverr.png" alt="Data Entry badar"/><a/>
-	
+  	<a href="https://https://github.com/Falenbayu"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:falenbayu@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Falenbayu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/falen-bayu-adhetya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <hr/>
