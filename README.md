@@ -170,9 +170,8 @@
 - The is theme is develop for wordpress for junior high school having achool in mind
 
 ## Coffe Shop
-- https://sibslamongan.sch.id/
-- The is theme is develop for wordpress for junior high school having achool in mind
-
+- https://coffeshop-zeta.vercel.app/
+- The is theme is develop for coffe shop business
 <!--
 <p align="center"><a href="https://www.youtube.com/watch?v=i3uAQoB1G3A"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://img.youtube.com/vi/i3uAQoB1G3A/0.jpg" /></a></p>
 
